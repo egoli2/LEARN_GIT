@@ -1,1 +1,2 @@
 example for the second file
+added a new line here
